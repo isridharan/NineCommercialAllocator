@@ -1,0 +1,17 @@
+D:\Test Projects\NineCommercialAllocator\Service\bin\Debug\net5.0\Service.deps.json
+D:\Test Projects\NineCommercialAllocator\Service\bin\Debug\net5.0\Service.dll
+D:\Test Projects\NineCommercialAllocator\Service\bin\Debug\net5.0\ref\Service.dll
+D:\Test Projects\NineCommercialAllocator\Service\bin\Debug\net5.0\Service.pdb
+D:\Test Projects\NineCommercialAllocator\Service\bin\Debug\net5.0\Common.dll
+D:\Test Projects\NineCommercialAllocator\Service\bin\Debug\net5.0\Data.dll
+D:\Test Projects\NineCommercialAllocator\Service\bin\Debug\net5.0\Common.pdb
+D:\Test Projects\NineCommercialAllocator\Service\bin\Debug\net5.0\Data.pdb
+D:\Test Projects\NineCommercialAllocator\Service\obj\Debug\net5.0\Service.csproj.AssemblyReference.cache
+D:\Test Projects\NineCommercialAllocator\Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Projects\NineCommercialAllocator\Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+D:\Test Projects\NineCommercialAllocator\Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+D:\Test Projects\NineCommercialAllocator\Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+D:\Test Projects\NineCommercialAllocator\Service\obj\Debug\net5.0\Service.csproj.CopyComplete
+D:\Test Projects\NineCommercialAllocator\Service\obj\Debug\net5.0\Service.dll
+D:\Test Projects\NineCommercialAllocator\Service\obj\Debug\net5.0\ref\Service.dll
+D:\Test Projects\NineCommercialAllocator\Service\obj\Debug\net5.0\Service.pdb

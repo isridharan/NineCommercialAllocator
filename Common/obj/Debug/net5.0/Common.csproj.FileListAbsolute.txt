@@ -1,0 +1,11 @@
+D:\Test Projects\NineCommercialAllocator\Common\bin\Debug\net5.0\Common.deps.json
+D:\Test Projects\NineCommercialAllocator\Common\bin\Debug\net5.0\Common.dll
+D:\Test Projects\NineCommercialAllocator\Common\bin\Debug\net5.0\ref\Common.dll
+D:\Test Projects\NineCommercialAllocator\Common\bin\Debug\net5.0\Common.pdb
+D:\Test Projects\NineCommercialAllocator\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Projects\NineCommercialAllocator\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+D:\Test Projects\NineCommercialAllocator\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+D:\Test Projects\NineCommercialAllocator\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+D:\Test Projects\NineCommercialAllocator\Common\obj\Debug\net5.0\Common.dll
+D:\Test Projects\NineCommercialAllocator\Common\obj\Debug\net5.0\ref\Common.dll
+D:\Test Projects\NineCommercialAllocator\Common\obj\Debug\net5.0\Common.pdb

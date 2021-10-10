@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Askb1e/4/jkmdVFEnVW1rHGTsm3Jr+XvYVVgRU3/1J/BEXZv1GhnndHpEthvh2VzuoK5vzTU19XYzGnLUYMKkA==",
+  "success": true,
+  "projectFilePath": "D:\\Test Projects\\NineCommercialAllocator\\Service\\Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\u1177362\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\u1177362\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\u1177362\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\u1177362\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\u1177362\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

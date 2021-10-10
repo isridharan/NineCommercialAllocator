@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KNYEzuf3g+tDgvyYVTih9nzSUc6fLqj2tRiY+S8TwVGA99+p0SCZznAZGFELJTt72Vlhv7TZw1/bPJDwEgf9PA==",
+  "success": true,
+  "projectFilePath": "D:\\Test Projects\\NineCommercialAllocator\\Data\\Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\u1177362\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
